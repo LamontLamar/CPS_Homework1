@@ -1,0 +1,4 @@
+I would first by have a camera() compont to be able to read the mapping of the person.That infomation then would be used as data need to create the installation. The camera that they are using is the Kinect, so there might be some code already existing that does this function to display back to you. 
+There is some type of motion senseroing happening that might or might not be needed for this. 
+I would then have to create these quadrants that would be able to take the data from the camera() and display back as eclispe(). 
+The size of the eclispe() depends on how big/small the image is in the quadrants. 
