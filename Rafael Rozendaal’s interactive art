@@ -1,0 +1,8 @@
+In this installation I would first start by seeing if there was any way I could create/or find a database where I can get internet post text(). 
+My second thing I would want to do is have create the code that would probally read:
+
+let s = 'data.(specific site)';
+fill(50);
+text(s, ?, ?, ?, ?); // This text would have to fit within the dimensions that I have set. 
+
+What would be intresting if there was a way I could create my own data based based off of the people in the space. Person enters information (with set characters) and there text would fit into the displays. 
